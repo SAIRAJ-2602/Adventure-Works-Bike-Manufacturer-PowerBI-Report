@@ -24,8 +24,13 @@ Steps:-
 Insights:-
 
 🌍 The highest number of orders originate from The United States followed by Australia.
+
 💰 Approx $24.9 million in revenue was generated between January 2020 and June 2022 and profit was around $10.5 million.
+
 🏆Mr Maurice Shan was the top customer based on Total Revenue.
+
 🛍️ Accessories account for the largest number of orders, with tires and tubes being the most ordered product type.
+
 👖 Clothing has the highest return rate, with shorts being the most returned item.
+
 🚰 Water Bottle-30 oz has the highest number of orders with a total of 3983.
