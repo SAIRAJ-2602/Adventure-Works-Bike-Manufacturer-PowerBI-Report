@@ -2,6 +2,7 @@ This project delves into AdventureWorks, a global manufacturing company speciali
 
 
 
+
 Steps:-
 
 Data Extraction: Loaded all the raw data in Power Query Editor.
@@ -16,6 +17,7 @@ Data Processing: Created calculated columns and measures with the help of DAX ( 
 
 Dashboard Design: Developed an interactive dashboard for data visualization. Implemented a variety of charts and visuals, including KPI cards, matrices, slicers, clustered column charts, bar charts, line charts, 
                   gauges, maps, etc. Incorporated features such as bookmarks, drill-through filters, and page-level and report-level filters for enhanced interactivity.
+
 
 
 
