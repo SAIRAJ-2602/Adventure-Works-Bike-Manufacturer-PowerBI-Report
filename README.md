@@ -19,17 +19,6 @@ Dashboard Design: Developed an interactive dashboard for data visualization. Imp
 
 
 
-Dashboard Screenshots:-
--Executive Dashboard:
-
--Map Dashboard:
-
--Product Detail:
-
--Customer Detail:
-
-
-
 Insights:-
 - The highest number of orders originate from The United States followed by Australia.
 - Approx $24.9 million in revenue was generated between January 2020 and June 2022 and profit was around $10.5 million.
