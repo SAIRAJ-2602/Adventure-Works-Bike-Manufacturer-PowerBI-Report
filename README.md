@@ -1,12 +1,23 @@
 This project delves into AdventureWorks, a global manufacturing company specializing in Bike equipment and accessories. The management team seeks a comprehensive solution to monitor key performance indicators (KPIs) such as sales, revenue, profit, and returns. Additionally, the goal is was to compare regional performance, analyze product-level trends, and identify high-value customers. The Dataset contains raw CSV files, encompassing transaction details, returns, product information, customer data, and sales territories. 
 
+
+
 Steps:-
+
 Data Extraction: Loaded all the raw data in Power Query Editor.
+
 Data Cleaning: Checked and cleaned for duplicates, errors, and null values. Removed discrepancies to ensure accurate analysis.
+
 Data Transformation: Added extra columns in the dataset table. Executed steps such as rounding off values and fixing data types for various columns.
+
 Data Modeling: Established active relations between tables.
+
 Data Processing: Created calculated columns and measures with the help of DAX ( Data Analysis Expression )
-Dashboard Design: Developed an interactive dashboard for data visualization. Implemented a variety of charts and visuals, including KPI cards, matrices, slicers, clustered column charts, bar charts, line charts, gauges, maps, etc. Incorporated features such as bookmarks, drill-through filters, and page-level and report-level filters for enhanced interactivity.
+
+Dashboard Design: Developed an interactive dashboard for data visualization. Implemented a variety of charts and visuals, including KPI cards, matrices, slicers, clustered column charts, bar charts, line charts, 
+                  gauges, maps, etc. Incorporated features such as bookmarks, drill-through filters, and page-level and report-level filters for enhanced interactivity.
+
+
 
 Dashboard Screenshots:-
 -Executive Dashboard:
@@ -16,6 +27,8 @@ Dashboard Screenshots:-
 -Product Detail:
 
 -Customer Detail:
+
+
 
 Insights:-
 - The highest number of orders originate from The United States followed by Australia.
